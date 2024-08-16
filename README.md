@@ -1,2 +1,3 @@
 # Personal-Website
-Designed using Figrma, React, HTML and CSS
+Designed using Figma, React, HTML and CSS
+deployed at meetbusola.netlify.app/
